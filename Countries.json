@@ -1,4 +1,4 @@
 [
-  {"Name": "Northern Ireland", "code": "NI"},
-  {"Name": "England", "code": "ENG"}
+  {"Name": "Northern Ireland", "code": "NI", "latitude": "54.607868", "longitude": "-5.926437"},
+  {"Name": "England", "code": "ENG", "latitude": " 51.509865", "longitude": "-0.118092"}
 ]
